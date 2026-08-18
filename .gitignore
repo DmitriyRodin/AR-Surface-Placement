@@ -1,0 +1,12 @@
+*.bin
+
+
+*.onnx
+*.onnx.data
+midas_small_sim*
+
+__pycache__/
+*.py[cod]
+*$py.class
+ar_ml_env/
+.venv/
